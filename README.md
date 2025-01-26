@@ -25,19 +25,21 @@ Visualize o resultado final do projeto [clicando aqui](https://fabiobatistapinhe
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 - **HTML5**: Estruturação de páginas com boas práticas e semântica.
 - **CSS3**: Estilizações modernas, incluindo Flexbox e efeitos visuais.
 
 ---
-### 🪐Alguns links interessantes que utilizei durante o treinamento:
+
+## 🪐Links com informações sobre CSS e HTML:
 
 - [w3schools](https://www.w3schools.com/html/default.asp)
 - [mozilla flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 - [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
-### 🌈Links para sites de Colorometria
+
+## 🌈Links para sites de Colorometria:
 - [Coolors](https://coolors.co/)
 - [Adobe Color](https://color.adobe.com/pt/create/color-wheel)
 - [Color Hunt](https://colorhunt.co/)
