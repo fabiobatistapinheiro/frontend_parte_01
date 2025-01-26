@@ -1,10 +1,10 @@
 # Frontend: HTML e CSS para Projetos Web
 
-Bem-vindo ao repositório do projeto **Frontend Simples**! 🎉  
+Bem-vindo ao repositório do projeto **Frontend Parte 01**! 🎉  
 Este repositório faz parte da formação "A partir do zero: HTML e CSS para projetos web" e tem como objetivo apresentar os conceitos fundamentais para o desenvolvimento de páginas web modernas.
 
 ### 🌐 Acesse o projeto
-Visualize o resultado final do projeto [clicando aqui](https://fabiobatistapinheiro.github.io/frontend_simples/).
+Visualize o resultado final do projeto [clicando aqui](https://fabiobatistapinheiro.github.io/frontend_parte_01/).
 
 ---
 
