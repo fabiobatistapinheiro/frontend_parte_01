@@ -36,6 +36,7 @@ Visualize o resultado final do projeto [clicando aqui](https://fabiobatistapinhe
 - [w3schools](https://www.w3schools.com/html/default.asp)
 - [mozilla flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 - [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Fonts Google](https://fonts.google.com/)
 
 ---
 
