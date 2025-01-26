@@ -1,4 +1,4 @@
-# Frontend Simples: HTML e CSS para Projetos Web
+# Frontend: HTML e CSS para Projetos Web
 
 Bem-vindo ao repositório do projeto **Frontend Simples**! 🎉  
 Este repositório faz parte da formação "A partir do zero: HTML e CSS para projetos web" e tem como objetivo apresentar os conceitos fundamentais para o desenvolvimento de páginas web modernas.
