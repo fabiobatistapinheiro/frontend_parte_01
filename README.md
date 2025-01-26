@@ -32,22 +32,17 @@ Visualize o resultado final do projeto [clicando aqui](https://fabiobatistapinhe
 ---
 ### 🪐Alguns links interessantes que utilizei durante o treinamento:
 
-[w3schools](https://www.w3schools.com/html/default.asp)
+- [w3schools](https://www.w3schools.com/html/default.asp)
+- [mozilla flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+- [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-[mozilla flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
-
-[css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
+---
 ### 🌈Links para sites de Colorometria
-[Coolors](https://coolors.co/)
-
-[Adobe Color](https://color.adobe.com/pt/create/color-wheel)
-
-[Color Hunt](https://colorhunt.co/)
-
-[Color System](https://m3.material.io/styles/color/system/overview)
-
-[ColorLisa](https://colorlisa.com/)
+- [Coolors](https://coolors.co/)
+- [Adobe Color](https://color.adobe.com/pt/create/color-wheel)
+- [Color Hunt](https://colorhunt.co/)
+- [Color System](https://m3.material.io/styles/color/system/overview)
+- [ColorLisa](https://colorlisa.com/)
 
 
 
